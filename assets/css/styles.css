@@ -9,3 +9,15 @@ Selectores
     width: 80px;
     height: 80px;
 }
+
+.carousel .carousel-indicators button {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 100%;
+}
+
+.img-persona {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
